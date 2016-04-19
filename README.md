@@ -30,6 +30,6 @@ Response:
 {"result":"VALID"}
 
 result - result of move. Possible values:
-VALID
-INVALID
+VALID,
+INVALID,
 FINISH
