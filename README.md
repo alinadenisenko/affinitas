@@ -1,4 +1,4 @@
-# affinitas
+# Affinitas
 
 A RESTful web service that can validate successive moves on a Sudoku board. It can also recognise and 
 indicate if the Sudoku is finished with the current move.
